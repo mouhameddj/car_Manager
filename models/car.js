@@ -10,6 +10,11 @@ const placeModels= mongoose.Schema({
   
 
     },
+    hashCode:{
+        type:String,
+  
+
+    },
     duree:{
         type:String,
   
