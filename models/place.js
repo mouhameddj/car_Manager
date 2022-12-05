@@ -9,6 +9,11 @@ const CarModels= mongoose.Schema({
         type:String,
   
 
+    },
+    hashCode:{
+        type:String,
+  
+
     }
 }
 
